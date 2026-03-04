@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "interestingFact": "Japan has more than 6,800 islands and is home to the world's oldest continuously operating company, founded in 578 AD."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "203 million",
+    "interestingFact": "Brazil contains around 60% of the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "40 million",
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.43 billion",
+    "interestingFact": "India is the largest democracy in the world and has the world's highest cricket stadium."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 6,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "111 million",
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 7,
+    "countryName": "Iceland",
+    "capital": "Reykjavík",
+    "population": "390 thousand",
+    "interestingFact": "Iceland runs almost entirely on renewable energy and has no mosquitoes."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.41 billion",
+    "interestingFact": "China has the largest population in the world and built the Great Wall stretching over 21,000 km."
+  },
+  {
+    "id": 9,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": "59 million",
+    "interestingFact": "Italy has more UNESCO World Heritage Sites than any other country."
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": "60 million",
+    "interestingFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."
+  }
+]

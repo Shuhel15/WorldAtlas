@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "MdPlace",
+    "title": "Find us",
+    "description": "Meerut, Uttar Pradesh"
+  },
+  {
+    "id": 2,
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "description": "9875436208"
+  },
+  {
+    "id": 3,
+    "icon": "TbMailPlus",
+    "title": "Mail Us",
+    "description": "worldatlas@gmail.com"
+  }
+]
